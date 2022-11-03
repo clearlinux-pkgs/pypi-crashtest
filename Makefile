@@ -1,5 +1,5 @@
 PKG_NAME := pypi-crashtest
-URL = https://files.pythonhosted.org/packages/4a/d1/c08765bb40262491bf5da7c88b1a4ce62090c2a222a6ed706389277b6554/crashtest-0.4.0.tar.gz
+URL = https://files.pythonhosted.org/packages/6e/5d/d79f51058e75948d6c9e7a3d679080a47be61c84d3cc8f71ee31255eb22b/crashtest-0.4.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
